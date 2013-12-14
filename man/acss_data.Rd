@@ -24,11 +24,11 @@ This dataset shouldn't be called directly but rather
 through the accessor functions in package \pkg{acss}.
 }
 \author{
-Nicolas Gauvrit, Fernando Soler Toscano, and Hector Zenil.//
+Fernando Soler Toscano, Nicolas Gauvrit, and Hector Zenil.\cr
 Ported to R by Henrik Singmann.
 }
 \source{
-\url{http://algorithmicnature.org/}
+\url{http://www.complexitycalculator.com/}
 }
 \references{
 Delahaye, J.-P., & Zenil, H. (2012). Numerical evaluation of algorithmic complexity for short strings: A glance into the innermost structure of randomness. \emph{Applied Mathematics and Computation}, 219(1), 63-77. doi:10.1016/j.amc.2011.10.006
@@ -36,6 +36,8 @@ Delahaye, J.-P., & Zenil, H. (2012). Numerical evaluation of algorithmic complex
 Gauvrit, N., Zenil, H., Delahaye, J.-P., & Soler-Toscano, F. (in press). Algorithmic complexity for short binary strings applied to psychology: a primer. \emph{Behavior Research Methods}. doi:10.3758/s13428-013-0416-0
 
 Soler-Toscano, F., Zenil, H., Delahaye, J.-P., & Gauvrit, N. (2012). \emph{Calculating Kolmogorov Complexity from the Output Frequency Distributions of Small Turing Machines}. arXiv:1211.1302 [cs.it].
+
+\url{http://algorithmicnature.org/}
 }
 \keyword{datasets}
 

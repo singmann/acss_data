@@ -3,8 +3,9 @@ Type: Package
 Title: Data Only: Algorithmic Complexity of Short Strings (Computed via Coding Theorem Method)
 Version: 1.0
 Date: 2013-12-14
-Authors@R: c( person("Nicolas", "Gauvrit", role = "aut"),
+Authors@R: c( 
     person("Fernando", "Soler Toscano", role = "aut"),
+    person("Nicolas", "Gauvrit", role = "aut"),
     person("Hector", "Zenil", role = "aut"),
     person("Henrik", "Singmann",
     email = "singmann@gmail.com", role =

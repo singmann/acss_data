@@ -18,7 +18,7 @@ License: GPL (>= 2)
 This package \emph{only} contains data. Therefore, this package is not intended to be used directly, but  through functions in package \pkg{acss}.
 }
 \author{
-The data in this package was created by Fernando Soler Toscano, Nicolas Gauvrit, and Hector Zenil.//
+The data in this package was created by Fernando Soler Toscano, Nicolas Gauvrit, and Hector Zenil.\cr
 Data was ported to R by Henrik Singmann.
 
 Maintainer: Henrik Singmann <singmann@gmail.com>
