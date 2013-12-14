@@ -16,7 +16,7 @@ Version: \tab 1.0\cr
 Date: \tab 2013-12-14\cr
 License: GPL (>= 2)
 }
-This package \emph{only} contains data. Therefore, this package is not intended to be used directly, but rather through functions in package \pkg{acss}.
+This package \emph{only} contains data. Therefore, this package is not intended to be used directly, but  through functions in package \pkg{acss}.
 }
 \author{
 The data in this package was created by Fernando Soler Toscano, Nicolas Gauvrit, and Hector Zenil.\\
@@ -25,7 +25,7 @@ Data was ported to R by Henrik Singmann.
 Maintainer: Henrik Singmann <singmann@gmail.com>
 }
 \references{
-Delahaye, J.-P., & Zenil, H. (2012). Numerical evaluation of algorithmic complexity for short strings: A glance into the innermost structure of randomness. \emph{Applied Mathematics and Computation}, 219(1), 63–77. doi:10.1016/j.amc.2011.10.006
+Delahaye, J.-P., & Zenil, H. (2012). Numerical evaluation of algorithmic complexity for short strings: A glance into the innermost structure of randomness. \emph{Applied Mathematics and Computation}, 219(1), 63-77. doi:10.1016/j.amc.2011.10.006
 
 Gauvrit, N., Zenil, H., Delahaye, J.-P., & Soler-Toscano, F. (in press). Algorithmic complexity for short binary strings applied to psychology: a primer. \emph{Behavior Research Methods}. doi:10.3758/s13428-013-0416-0
 
