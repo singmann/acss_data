@@ -24,7 +24,7 @@ This dataset shouldn't be called directly but rather
 through the accessor functions in package \pkg{acss}.
 }
 \author{
-Nicolas Gauvrit, Fernando Soler Toscano, and Hector Zenil.\\
+Nicolas Gauvrit, Fernando Soler Toscano, and Hector Zenil.//
 Ported to R by Henrik Singmann.
 }
 \source{

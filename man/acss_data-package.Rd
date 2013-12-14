@@ -1,6 +1,5 @@
 \name{acss.data-package}
 \alias{acss.data-package}
-\alias{acss.data}
 \docType{package}
 \title{
 Data Only: Algorithmic Complexity of Short Strings (Computed via Coding Theorem Method)
@@ -19,7 +18,7 @@ License: GPL (>= 2)
 This package \emph{only} contains data. Therefore, this package is not intended to be used directly, but  through functions in package \pkg{acss}.
 }
 \author{
-The data in this package was created by Fernando Soler Toscano, Nicolas Gauvrit, and Hector Zenil.\\
+The data in this package was created by Fernando Soler Toscano, Nicolas Gauvrit, and Hector Zenil.//
 Data was ported to R by Henrik Singmann.
 
 Maintainer: Henrik Singmann <singmann@gmail.com>
@@ -34,6 +33,6 @@ Soler-Toscano, F., Zenil, H., Delahaye, J.-P., & Gauvrit, N. (2012). \emph{Calcu
 \keyword{ package }
 \keyword{datasets}
 \seealso{
-\pkg{acss} for functions accessing this package.
+package \pkg{acss} for functions accessing this data.
 }
 
