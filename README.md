@@ -1,4 +1,12 @@
-acss_data
+acss_data: Data only package
 =========
 
-algorithmic complexity of short strings data computed using the coding theorem method
+## Algorithmic Complexity of Short Strings (Computed via Coding Theorem Method)
+
+* From CRAN: In the future
+
+* Development version from Github:
+```
+library("devtools"); install_github("acss_data",user="singmann")
+```
+
