@@ -5,7 +5,7 @@
 Data Only: Algorithmic Complexity of Short Strings (Computed via Coding Theorem Method)
 }
 \description{
-Data only package providing the algorithmic complexity of short strings, an approximation of the Kolmogorov Complexity, computed using the coding theorem method. For a given set of symbols in a string, all possible or a large number of random samples of universal turing machines (UTM) with a given number of states (e.g., 5) and number of symbols corresponding to the number of symbols in the strings were simulated until they reached an end state or failed to end. This package contains data on 4.5 million strings from length 1 to 12 simulated on UTMs with 2, 4, 5, 6, and 9 symbols. The complexity of the string corresponds to the distribution of the end states of the UTMs.
+Data only package providing the algorithmic complexity of short strings, computed using the coding theorem method. For a given set of symbols in a string, all possible or a large number of random samples of Turing machines (TM) with a given number of states (e.g., 5) and number of symbols corresponding to the number of symbols in the strings were simulated until they reached a halting state or failed to end. This package contains data on 4.5 million strings from length 1 to 12 simulated on TMs with 2, 4, 5, 6, and 9 symbols. The complexity of the string corresponds to the distribution of the halting states of the TMs.
 }
 \details{
 \tabular{ll}{
