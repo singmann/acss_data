@@ -6,17 +6,17 @@
 \format{
   A data frame with 4590267 observations on the following 5 variables.
   \describe{
-    \item{\code{K.2}}{acss with 2 symbols}
-    \item{\code{K.4}}{acss with 4 symbols}
-    \item{\code{K.5}}{acss with 5 symbols}
-    \item{\code{K.6}}{acss with 6 symbols}
-    \item{\code{K.9}}{acss with 9 symbols}
+    \item{\code{K.2}}{acss with 2 symbols, computed on all possible Turing machines (TM) with 5 states and 2 symbols.}
+    \item{\code{K.4}}{acss with 4 symbols, computed on a large number of TMs with 4 states and 4 symbols.}
+    \item{\code{K.5}}{acss with 5 symbols, computed on a large number of TMs with 4 states and 5 symbols.}
+    \item{\code{K.6}}{acss with 6 symbols, computed on a large number of TMs with 4 states and 6 symbols.}
+    \item{\code{K.9}}{acss with 9 symbols, computed on a large number of TMs with 4 states and 9 symbols.}
   }
 }
 \description{
 Contains the algorithmic complexity for short string, an
 approximation of the Kolmogorov Complexity of a short
-string using the coding theorem method.
+string using the coding theorem method. For a given set of symbols in a string, all possible or a large number of random samples of Turing machines (TM) with a given number of states and number of symbols corresponding to the number of symbols in the strings were simulated until they reached a halting state or failed to end. The complexity of the string corresponds to the distribution of the halting states of the TMs.
 
 See \url{http://algorithmicnature.org/} for more information or references below.
 
