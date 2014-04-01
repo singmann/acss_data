@@ -18,7 +18,7 @@ Contains the algorithmic complexity for short string, an
 approximation of the Kolmogorov Complexity of a short
 string using the coding theorem method. For a given set of symbols in a string, all possible or a large number of random samples of Turing machines (TM) with a given number of states and number of symbols corresponding to the number of symbols in the strings were simulated until they reached a halting state or failed to end. The complexity of the string corresponds to the distribution of the halting states of the TMs.
 
-See \url{http://algorithmicnature.org/} for more information or references below.
+See \url{http://complexitycalculator.com/methodology.html} for more information or references below.
 
 This dataset shouldn't be called directly but rather
 through the accessor functions in package \pkg{acss}.
@@ -28,7 +28,7 @@ Fernando Soler Toscano, Nicolas Gauvrit, and Hector Zenil.\cr
 Ported to R by Henrik Singmann.
 }
 \source{
-\url{http://www.complexitycalculator.com/}
+\url{http://complexitycalculator.com/methodology.html}
 }
 \references{
 Delahaye, J.-P., & Zenil, H. (2012). Numerical evaluation of algorithmic complexity for short strings: A glance into the innermost structure of randomness. \emph{Applied Mathematics and Computation}, 219(1), 63-77. doi:10.1016/j.amc.2011.10.006
