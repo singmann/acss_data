@@ -12,9 +12,9 @@ Data only package providing the algorithmic complexity of short strings, compute
 Package: \tab acss.data\cr
 Type: \tab Package\cr
 Version: \tab 1.0\cr
-Date: \tab 2013-12-14\cr
+Date: \tab 2013-04-02\cr
 License: GPL (>= 2)\cr
-URL: http://complexitycalculator.com/methodology.html\cr
+URL: \tab \url{http://complexitycalculator.com/methodology.html}\cr
 }
 This package \emph{only} contains data. Therefore, this package is not intended to be used directly, but  through functions in package \pkg{acss}.
 }
