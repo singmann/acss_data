@@ -1,8 +1,0 @@
-
-devtools::build(path = "development")
-
-rhub::rhub_setup()
-rhub::rhub_doctor() 
-rhub::rhub_platforms()
-
-rhub::rhub_check()

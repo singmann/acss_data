@@ -14,7 +14,7 @@ Type: \tab Package\cr
 Version: \tab 1.0\cr
 Date: \tab 2013-04-02\cr
 License: GPL (>= 2)\cr
-URL: \tab \url{http://complexitycalculator.com/methodology.html}\cr
+URL: \tab \url{https://complexity-calculator.com/methodology.html}\cr
 }
 This package \emph{only} contains data. Therefore, this package is not intended to be used directly, but  through functions in package \pkg{acss}.
 }

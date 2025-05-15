@@ -28,7 +28,7 @@ Fernando Soler Toscano, Nicolas Gauvrit, and Hector Zenil.\cr
 Ported to R by Henrik Singmann.
 }
 \source{
-\url{http://complexitycalculator.com/methodology.html}
+\url{https://complexity-calculator.com/methodology.html}
 }
 \references{
 Delahaye, J.-P., & Zenil, H. (2012). Numerical evaluation of algorithmic complexity for short strings: A glance into the innermost structure of randomness. \emph{Applied Mathematics and Computation}, 219(1), 63-77. doi:10.1016/j.amc.2011.10.006
@@ -37,7 +37,7 @@ Gauvrit, N., Zenil, H., Delahaye, J.-P., & Soler-Toscano, F. (in press). Algorit
 
 Soler-Toscano, F., Zenil, H., Delahaye, J.-P., & Gauvrit, N. (2012). \emph{Calculating Kolmogorov Complexity from the Output Frequency Distributions of Small Turing Machines}. arXiv:1211.1302 [cs.it].
 
-\url{http://algorithmicnature.org/}
+\url{https://complexity-calculator.com/}
 }
 \keyword{datasets}
 
