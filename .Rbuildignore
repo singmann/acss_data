@@ -3,3 +3,5 @@
 development.R
 development
 .github
+^CRAN-SUBMISSION$
+^cran-comments\.md$
